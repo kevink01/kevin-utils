@@ -29,6 +29,7 @@
 	},
 	"homepage": "https://github.com/kevink01/kevin-utilst#readme",
 	"devDependencies": {
+		"@changesets/cli": "^2.27.9",
 		"@types/node": "^22.7.7",
 		"@typescript-eslint/eslint-plugin": "^8.10.0",
 		"@typescript-eslint/parser": "^8.10.0",
