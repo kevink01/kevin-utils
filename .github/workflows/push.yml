@@ -3,7 +3,6 @@ name: Lint & Test
 on:
   push:
     branch:
-      - main
       - dev
 
 env:
