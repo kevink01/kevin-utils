@@ -2,6 +2,9 @@
 	"name": "@kevink01/kevin-utils",
 	"version": "0.0.0",
 	"description": "A utility library for configurations and helper methods",
+	"publishConfig": {
+		"access": "public"
+	},
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
