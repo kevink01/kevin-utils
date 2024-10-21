@@ -26,14 +26,15 @@
 		"**/.*",
 		"node_modules/",
 		"dist/",
-		".husky/"
+		".husky/",
+		"coverage"
 	],
 	"rules": {
 		"max-len": [
 			"warn",
 			{
 				"code": 160,
-				"comments": 80,
+				"comments": 120,
 				"ignoreStrings": true
 			}
 		],

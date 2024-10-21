@@ -2,6 +2,7 @@ node_modules
 
 # Output
 dist
+coverage
 
 # IDE settings
 .vscode
