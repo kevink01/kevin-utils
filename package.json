@@ -1,5 +1,6 @@
 {
 	"name": "@kevink01/kevin-utils",
+	"private": "false",
 	"version": "0.0.0",
 	"description": "A utility library for configurations and helper methods",
 	"main": "dist/index.js",
