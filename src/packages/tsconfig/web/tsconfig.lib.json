@@ -1,0 +1,6 @@
+{
+	"extends": "@kevink01/kevin-utils/tsconfig.web.json",
+	"compilerOptions": {
+		"declaration": true
+	}
+}

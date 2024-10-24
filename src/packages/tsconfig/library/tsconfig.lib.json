@@ -1,0 +1,6 @@
+{
+	"extends": "@kevink01/kevin-utils/tsconfig.library.json",
+	"compilerOptions": {
+		"declaration": true
+	}
+}

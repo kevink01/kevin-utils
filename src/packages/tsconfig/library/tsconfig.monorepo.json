@@ -1,0 +1,7 @@
+{
+	"extends": "@kevink01/kevin-utils/library/tsconfig.lib.json",
+	"compilerOptions": {
+		"composite": true,
+		"declarationMap": true
+	}
+}
