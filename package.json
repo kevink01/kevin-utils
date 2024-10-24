@@ -10,7 +10,7 @@
 	"types": "dist/index.d.ts",
 	"scripts": {
 		"build": "tsup src/index.ts --format cjs,esm --dts --minify",
-		"build:tsconfig": "copyfiles -V -u 2 src/packages/tsconfig/**/*.json dist/",
+		"build:tsconfig": "copyfiles -V -u 2 src/packages/tsconfig/*.json src/packages/tsconfig/**/*.json dist/",
 		"postbuild": "pnpm build:tsconfig",
 		"changeset": "changeset",
 		"lint": "eslint . --max-warnings 0",
