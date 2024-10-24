@@ -1,0 +1,6 @@
+{
+	"extends": "@kevink01/kevin-utils/tsconfig.base.json",
+	"compilerOptions": {
+		"lib": ["ES2022", "DOM", "DOM.Iterable"]
+	}
+}
