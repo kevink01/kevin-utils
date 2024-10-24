@@ -1,5 +1,11 @@
 # @kevink01/kevin-utils
 
+## 0.0.3
+
+### Patch Changes
+
+-   356aa3b: Output library and library monorepo tsconfig files
+
 ## 0.0.2
 
 ### Patch Changes
